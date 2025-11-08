@@ -34,7 +34,7 @@ I code in a mix of **procedural and object-oriented approaches**, keeping things
 
 I’ve worked on projects like a **3D Linux settings manager** that mirrors Nvidia’s control panel on Windows. It integrates with **DXVK and vkBasalt**, manages persistent configuration files, and handles complex system-level interactions. I use libraries like **PyQt6** for GUIs, and for web stuff I’ve dabbled with **React** and **Vue**, but I try to keep things simple and readable, avoiding unnecessary abstraction whenever possible.
 
-Beyond building tools, I’m naturally curious and like to experiment. Currently, I’m researching and prototyping an **AI using Mistral**, combining **retrieval-augmented generation (RAG) with YAML and JSON** to give it **personality, memory, and a reasoning engine**. It’s an exploration of how intelligent systems can simulate emotional experience, learn over time, and interact in a more lifelike, human-aware way. I bring the same creativity, curiosity, and playful energy to my coding projects as I do to this AI experimentation.
+Beyond building tools, I’m naturally curious and like to experiment. Currently, I’m researching and prototyping an **AI using Mistral**, combining **retrieval-augmented generation (RAG) with YAML and JSON** to give it **personality, memory, and a reasoning engine**. It’s an exploration of how intelligent systems can simulate emotional experience, learn over time, and interact in a more lifelike, human aware way. I bring the same creativity, curiosity, and playful energy to my coding projects as I do to this AI experimentation.
 
 Basically, I like **clear, reliable, step-by-step code**, but I’m more than a coder. Fun, mischievous, and a little chaotic at times, I enjoy building systems that just work while exploring ideas that push boundaries. Whether it’s automation, game tooling, system optimization, or AI research, I focus on **making tools and experiences that are solid, maintainable, and thoughtfully designed**.
 
@@ -53,11 +53,16 @@ Basically, I like **clear, reliable, step-by-step code**, but I’m more than a 
 
 ---
 
+## 🖥️ Projects
+- **3D Linux Settings Manager** – DXVK & vkBasalt config tool with persistent storage and GUI (Python/PyQt6) >(link pending)
+
+---
+
 ## 🔍 What I’m Looking For
 
-I’m interested in opportunities where I can **design and build systems that just work**, whether it’s automation, game tooling, backend infrastructure, or experimental projects like AI. I’m looking for roles or collaborations that **value clarity, reliability, and thoughtful problem-solving** over flashy abstractions.
+I’m interested in opportunities where I can **design and build systems that just work**, whether it’s automation, game tooling, backend infrastructure, or experimental projects like AI. I’m looking for roles or collaborations that **value clarity, reliability, and thoughtful problem solving** over flashy abstractions.
 
-I’m also drawn to **small to medium teams or indie projects**, where my approach—careful planning, explicit logic, and functional code—can make a real impact. I enjoy **projects that push boundaries**, let me explore new ideas, and allow me to experiment with **AI, system optimization, or game-related tooling**.
+I’m also drawn to **small to medium teams or indie projects**, where my approach, careful planning, explicit logic, and functional code, can make a real impact. I enjoy **projects that push boundaries**, let me explore new ideas, and allow me to experiment with **AI, system optimization, or game related tooling**.
 
 I’m open to **remote work or flexible setups**, and I’m always keen to **learn, explore, and grow** while contributing something solid, reliable, and uniquely my style.
 
