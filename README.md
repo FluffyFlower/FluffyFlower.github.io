@@ -23,7 +23,7 @@
 
 # Hi, I'm Fluffy Flower 🐾
 
-<img src="Images/Fluffy_Icon.jpg" alt="Fluffy Flower" style="width:200px;" style="border-radius:50%; display:block; margin:auto;">
+<img src="Images/Fluffy_Icon.jpg" alt="Fluffy Flower" style="width:200;" style="border-radius:50%; display:block; margin:auto;">
 
 I’m a **backend and systems-focused developer**. I work with **Python, Java, Bash, SQL, HTML, CSS, JS, and PHP**, and I can jump back into any of these languages quickly if needed. My favourites are **Python** and **Java**. I like to make systems work reliably first. GUIs come later, and when I do make them, they’re usually barebones. **Function over form is my style.**
 
