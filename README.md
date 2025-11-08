@@ -1,17 +1,26 @@
 # Hi, I'm Fluffy Flower 🐾
 
-I'm a systems-focused Python & Bash developer building **deterministic, auditable, high-performance tooling** for Linux gaming, DXVK, and vkBasalt optimization. My approach is **classic engineering**: clear, step-by-step, reliable code that you can audit, debug, and trust under pressure.
+![Fluffy Flower](Images/Fluffy_Icon.jpg)
 
-I specialise in building **tooling and pipelines** that demand precision, whether it's JSON-driven application managers, modding utilities, or system optimization scripts. My work prioritizes **control, transparency, and maintainability**, making it ideal for game studios, small engineering teams, and mission-critical systems.
+I’m a backend and systems-focused developer. I work with Python, Java, Bash, SQL, HTML, CSS, JS, and PHP, and I can jump back into any of these languages quickly if needed. My favourites are Python and Java. I like to make systems work reliably first. GUIs come later, and when I do make them, they’re usually barebones. Function over form is my style.
+
+I code in a mix of procedural and object-oriented approaches, keeping things explicit and easy to follow. I plan most systems carefully, sketching out the complex parts with UML in tools like Visual Paradigm before building them. I also like to think ahead about potential pitfalls, which saves a lot of debugging later even if it slows me down a bit sometimes.
+
+I’ve worked on projects like a 3D Linux settings manager that mirrors Nvidia’s control panel on Windows. It integrates with DXVK and vkBasalt, manages persistent configuration files, and handles complex system-level interactions. I use libraries like PyQt6 for GUIs, and for web stuff I’ve dabbled with React and Vue, but I try to keep things simple and readable, avoiding unnecessary abstraction whenever possible.
+
+Basically, I like clear, reliable, step-by-step code. I enjoy building systems that just work, and thinking through problems from the ground up. Whether it’s automation, game tooling, or system optimization, I focus on making tools that are solid, maintainable, and easy to understand.
 
 ---
 
 ## 🛠️ Skills
-- Python, Bash, JSON handling, Qt6 GUI
-- Game tooling & optimization
-- Linux system utilities
-- DXVK / vkBasalt integration
-- Deterministic, auditable, step-by-step engineering
+- Languages: Python, Java, Bash, SQL, HTML, CSS, JS, PHP
+- Libraries & Frameworks: PyQt6, React, Vue (for tools and lightweight GUIs)
+- System & Game Tools: DXVK, vkBasalt, Linux system utilities
+- Development Style: Procedural with OOP where it makes sense, clear and readable code, function over form
+- Design & Planning: UML, Visual Paradigm, careful system planning for complex interactions
+- Debugging & Problem-Solving: Anticipatory debugging, thinking ahead to prevent pitfalls
+- Software Focus: Backend and systems-focused, automation pipelines, persistent storage, configuration management
+- Other Tools: Git, CLI automation, JSON/CRUD management
 
 ---
 
@@ -24,9 +33,10 @@ I specialise in building **tooling and pipelines** that demand precision, whethe
 
 ## 📫 Contact Me
 - Email: martincw1989@gmail.com  
-- Discord: fluffy_flower  
+- Discord: fluffy_flower
+- Telegram: @FluffyFlower  
 - Freelancer Brand: **Wylde Fur Code**  
 
 ---
 
-> I build systems the way Valve might: deterministic, auditable, and rock-solid. If your team values **precision over abstraction**, let’s connect.
+> Step-by-step, tail-wag approved.. I craft systems that are solid, reliable, and a little fun.
