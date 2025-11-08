@@ -22,11 +22,12 @@
 </style>
 
 # Hi, I'm Fluffy Flower 🐾
-
+<br>
 <div style="display:flex; justify-content:center; align-items:center;">
   <img src="Images/Fluffy_Icon.jpg" alt="Fluffy Flower" style="max-width:200px; height:auto; border-radius:50%;">
 </div>
-
+<br>
+<br>
 I’m a **backend and systems-focused developer**. I work with **Python, Java, Bash, SQL, HTML, CSS, JS, and PHP**, and I can jump back into any of these languages quickly if needed. My favourites are **Python** and **Java**. I like to make systems work reliably first. GUIs come later, and when I do make them, they’re usually barebones. **Function over form is my style.**
 
 I code in a mix of **procedural and object-oriented approaches**, keeping things explicit and easy to follow. I plan most systems carefully, sketching out the complex parts with **UML in Visual Paradigm** before building them. I also like to **think ahead about potential pitfalls**, which saves a lot of debugging later—even if it slows me down a bit sometimes.
